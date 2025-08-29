@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-08-28T22:47:22.514Z",
+  "targetProfile": {
+    "name": "Melbourne Construction Companies",
+    "industry": "construction",
+    "location": "Melbourne, Australia",
+    "employeeRange": "11-50",
+    "revenueRange": "$1M-$10M",
+    "services": [
+      "building services",
+      "construction",
+      "maintenance",
+      "renovation"
+    ]
+  },
+  "apolloSearch": {
+    "url": "https://app.apollo.io/search/companies",
+    "filters": {
+      "industry_keywords": [
+        "construction",
+        "building",
+        "contractors",
+        "renovation"
+      ],
+      "locations": [
+        "Melbourne, Australia",
+        "Melbourne VIC",
+        "Victoria Australia"
+      ],
+      "employee_count": "11-50",
+      "technologies": [],
+      "company_type": [
+        "Private Company"
+      ],
+      "revenue_range": [
+        "$1M - $10M",
+        "$10M - $50M"
+      ]
+    },
+    "exportInstructions": [
+      "1. Login to Apollo.io",
+      "2. Navigate to Company Search",
+      "3. Apply filters: Industry = Construction, Location = Melbourne, Employees = 11-50",
+      "4. Export first 100 results to CSV",
+      "5. Download and import to Google Sheets"
+    ]
+  },
+  "linkedInSearch": {
+    "url": "https://www.linkedin.com/sales/search/company",
+    "filters": {
+      "companySize": [
+        "11-50 employees",
+        "51-200 employees"
+      ],
+      "location": [
+        "Melbourne, Australia"
+      ],
+      "industry": [
+        "construction",
+        "Construction",
+        "Building Materials"
+      ],
+      "keywords": [
+        "construction services",
+        "building maintenance",
+        "commercial building",
+        "residential building",
+        "renovation services",
+        "facility management"
+      ]
+    },
+    "searchProcess": [
+      "1. Login to LinkedIn Sales Navigator",
+      "2. Go to Company Search",
+      "3. Set location to Melbourne, Australia",
+      "4. Set company size to 11-50 employees",
+      "5. Add industry filters for Construction",
+      "6. Export up to 2,500 companies (premium limit)",
+      "7. Download CSV and process contacts"
+    ]
+  },
+  "report": {
+    "timestamp": "2025-08-28T22:47:22.512Z",
+    "target": {
+      "name": "Melbourne Construction Companies",
+      "industry": "construction",
+      "location": "Melbourne, Australia",
+      "employeeRange": "11-50",
+      "revenueRange": "$1M-$10M",
+      "services": [
+        "building services",
+        "construction",
+        "maintenance",
+        "renovation"
+      ]
+    },
+    "immediateActions": [
+      "Search Apollo.io with provided filters",
+      "Use LinkedIn Sales Navigator company search",
+      "Check Yellow Pages and Trusted Tradie directories",
+      "Research industry association member lists",
+      "Monitor government tender databases for active contractors"
+    ],
+    "automationOpportunities": [
+      "Set up Google Alerts for \"new construction companies Melbourne\"",
+      "Monitor company registration databases (ASIC)",
+      "Track building permit applications in Melbourne councils",
+      "Set up social media monitoring for construction hashtags",
+      "Create automated email sequences for discovered leads"
+    ],
+    "dataEnrichment": [
+      "Use Hunter.io to find email addresses",
+      "Clearbit for company intelligence and revenue estimates",
+      "ZoomInfo for contact details and org charts",
+      "Builtwith.com for technology stack analysis",
+      "SimilarWeb for website traffic and engagement"
+    ],
+    "qualificationCriteria": {
+      "idealProspects": [
+        "Melbourne-based construction companies",
+        "11-50 employees (SMB sweet spot)",
+        "Annual revenue $1M-$10M",
+        "Uses multiple software platforms (high platform fees)",
+        "Active in commercial or residential building",
+        "Growth-oriented (hiring, expanding services)"
+      ],
+      "disqualifiers": [
+        "Companies with in-house IT teams",
+        "Recently completed major tech overhauls",
+        "Very price-sensitive businesses",
+        "Companies in financial distress",
+        "Highly specialized niche players"
+      ]
+    }
+  },
+  "nextSteps": [
+    "1. Execute Apollo.io search with provided filters",
+    "2. Run LinkedIn Sales Navigator company search",
+    "3. Manually check industry directories for additional leads",
+    "4. Use Hunter.io to find contact emails for discovered companies",
+    "5. Import all leads to Google Sheets using CSV template",
+    "6. Set up automated nurture sequences for qualified leads"
+  ]
+}

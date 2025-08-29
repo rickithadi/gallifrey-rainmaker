@@ -1,0 +1,28 @@
+app = "gallifrey-rainmaker"
+primary_region = "syd"
+
+[build]
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 512
+
+[env]
+  NODE_ENV = "production"
+  PORT = "3000"
+
+[deploy]
+  release_command = "npm run db:migrate"
+
+[[statics]]
+  guest_path = "/app/.next/static"
+  url_prefix = "/_next/static/"

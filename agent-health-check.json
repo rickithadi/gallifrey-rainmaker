@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-08-29T00:18:35.437Z",
+  "agents": {
+    "enterprise_research": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 111,
+      "health": "good"
+    },
+    "enterprise_content": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 119,
+      "health": "good"
+    },
+    "enterprise_relationship": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 40,
+      "health": "good"
+    },
+    "smb_platform": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 97,
+      "health": "good"
+    },
+    "smb_local": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 36,
+      "health": "good"
+    },
+    "smb_conversion": {
+      "status": "active",
+      "lastPing": "2025-08-29T00:18:35.458Z",
+      "responseTime": 61,
+      "health": "good"
+    }
+  },
+  "overallHealth": "healthy"
+}

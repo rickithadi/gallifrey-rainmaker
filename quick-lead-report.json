@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-08-28T23:01:56.787Z",
+  "totalLeads": 50,
+  "sourceBreakdown": {
+    "Similar Business Search": 18,
+    "Government Tender Database": 9,
+    "Business Directory Search": 14,
+    "Industry Association Directory": 9
+  },
+  "highConfidenceLeads": 39,
+  "avgConfidence": 0.8625471227369077,
+  "topLeads": [
+    {
+      "company": "Melbourne Strata Solutions",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Building Management Services",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Facility Care Melbourne",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Property Maintenance Group",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Strata Building Services",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Commercial Property Solutions",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Building Care Melbourne",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Property Services Group",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Facility Management Plus",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    },
+    {
+      "company": "Strata Maintenance Co",
+      "source": "Similar Business Search",
+      "confidence": "95%"
+    }
+  ]
+}

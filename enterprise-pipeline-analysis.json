@@ -1,0 +1,265 @@
+{
+  "timestamp": "2025-08-28T23:41:39.333Z",
+  "currentState": {
+    "sheetName": "Enterprise Pipeline",
+    "sheetId": 1453413557,
+    "headers": [
+      "ENTERPRISE TRACK - HIGH VALUE PROSPECTS"
+    ],
+    "records": [
+      [
+        "Filters: [Stage: All] [Status: Active] [Agent: All]"
+      ],
+      [
+        "Company",
+        "Contact",
+        "Revenue",
+        "Employees",
+        "Industry",
+        "Budget",
+        "Stage",
+        "Agent",
+        "Last Contact",
+        "Next Action",
+        "Notes"
+      ]
+    ],
+    "analysis": {
+      "hasBasicInfo": false,
+      "hasStageTracking": false,
+      "hasValueTracking": true,
+      "hasContactInfo": false,
+      "hasActivityTracking": false,
+      "hasNurturing": false,
+      "recommendations": [
+        "Add basic company and contact information fields",
+        "Add enterprise sales stage tracking",
+        "Add comprehensive contact information fields",
+        "Add last contact and next action tracking",
+        "Add automated nurturing and campaign tracking"
+      ]
+    }
+  },
+  "recommendedStructure": {
+    "companyInfo": [
+      "Company Name",
+      "Website",
+      "Industry",
+      "Company Size",
+      "Annual Revenue",
+      "Headquarters",
+      "Founded Year"
+    ],
+    "contactInfo": [
+      "Primary Contact",
+      "Title/Role",
+      "Email",
+      "Phone",
+      "LinkedIn Profile",
+      "Decision Maker Level",
+      "Influence Score"
+    ],
+    "salesPipeline": [
+      "Lead Source",
+      "Current Stage",
+      "Probability %",
+      "Deal Value ($)",
+      "Expected Close Date",
+      "Sales Cycle Length",
+      "Competitive Situation"
+    ],
+    "engagement": [
+      "First Contact Date",
+      "Last Contact Date",
+      "Total Touchpoints",
+      "Response Rate",
+      "Engagement Score",
+      "Next Action",
+      "Next Action Date"
+    ],
+    "enterpriseSpecific": [
+      "Security Requirements",
+      "Compliance Needs",
+      "Budget Authority",
+      "Procurement Process",
+      "Contract Value Range",
+      "Implementation Timeline",
+      "Technical Requirements"
+    ],
+    "nurturing": [
+      "Nurture Sequence",
+      "Content Delivered",
+      "Whitepaper Downloads",
+      "Demo Requested",
+      "Proposal Status",
+      "Objections/Concerns",
+      "Success Criteria"
+    ],
+    "analytics": [
+      "Lead Score",
+      "Fit Score",
+      "Intent Score",
+      "Activity Score",
+      "Time in Stage",
+      "Conversion Probability",
+      "ROI Potential"
+    ]
+  },
+  "salesStages": {
+    "stages": [
+      {
+        "name": "Target Identification",
+        "description": "Research and identify high-value enterprise prospects",
+        "duration": "1-2 weeks",
+        "activities": [
+          "Company research",
+          "Stakeholder mapping",
+          "Pain point analysis"
+        ],
+        "exitCriteria": "Company fits ICP and shows business need"
+      },
+      {
+        "name": "Initial Engagement",
+        "description": "First contact and relationship building",
+        "duration": "2-4 weeks",
+        "activities": [
+          "Executive outreach",
+          "Value proposition delivery",
+          "Initial meetings"
+        ],
+        "exitCriteria": "Stakeholder interest and meeting scheduled"
+      },
+      {
+        "name": "Discovery & Qualification",
+        "description": "Deep dive into needs, budget, and decision process",
+        "duration": "3-6 weeks",
+        "activities": [
+          "Needs assessment",
+          "Technical requirements",
+          "Budget qualification"
+        ],
+        "exitCriteria": "Clear understanding of needs and buying process"
+      },
+      {
+        "name": "Solution Development",
+        "description": "Customize solution and build business case",
+        "duration": "4-8 weeks",
+        "activities": [
+          "Custom demo",
+          "ROI analysis",
+          "Technical documentation"
+        ],
+        "exitCriteria": "Solution aligned with requirements and business case built"
+      },
+      {
+        "name": "Proposal & Negotiation",
+        "description": "Formal proposal and contract negotiation",
+        "duration": "4-12 weeks",
+        "activities": [
+          "Proposal development",
+          "Contract terms",
+          "Stakeholder alignment"
+        ],
+        "exitCriteria": "Agreement on terms and pricing"
+      },
+      {
+        "name": "Contract & Implementation",
+        "description": "Contract signing and solution implementation",
+        "duration": "2-8 weeks",
+        "activities": [
+          "Contract execution",
+          "Implementation planning",
+          "Onboarding"
+        ],
+        "exitCriteria": "Signed contract and successful implementation"
+      },
+      {
+        "name": "Customer Success",
+        "description": "Ongoing relationship and expansion opportunities",
+        "duration": "Ongoing",
+        "activities": [
+          "Regular check-ins",
+          "Success metrics",
+          "Expansion opportunities"
+        ],
+        "exitCriteria": "Customer satisfaction and expansion potential"
+      }
+    ]
+  },
+  "implementationPlan": {
+    "phase1": {
+      "title": "Pipeline Structure Enhancement",
+      "duration": "1 week",
+      "tasks": [
+        "Update Enterprise Pipeline headers with comprehensive fields",
+        "Add sales stage tracking system",
+        "Implement deal value and probability tracking",
+        "Create automated stage progression workflows"
+      ]
+    },
+    "phase2": {
+      "title": "Content & Nurturing System",
+      "duration": "2 weeks",
+      "tasks": [
+        "Build enterprise-specific content library",
+        "Create automated nurture sequences",
+        "Implement lead scoring system",
+        "Set up personalized outreach templates"
+      ]
+    },
+    "phase3": {
+      "title": "Analytics & Optimization",
+      "duration": "1 week",
+      "tasks": [
+        "Build enterprise pipeline analytics",
+        "Create conversion tracking",
+        "Implement predictive lead scoring",
+        "Set up automated reporting"
+      ]
+    }
+  },
+  "quickWins": [
+    "Move qualified enterprise leads from discovery to pipeline",
+    "Set up basic stage progression tracking",
+    "Create enterprise-specific outreach templates",
+    "Implement deal value estimation",
+    "Build stakeholder mapping for key accounts"
+  ],
+  "enterpriseLeadCriteria": {
+    "company": {
+      "minEmployees": 50,
+      "minRevenue": "$5M",
+      "industries": [
+        "Construction",
+        "Real Estate",
+        "Property Management",
+        "Facilities"
+      ],
+      "locations": [
+        "Melbourne",
+        "Sydney",
+        "Brisbane",
+        "Perth",
+        "Adelaide"
+      ]
+    },
+    "contact": {
+      "titles": [
+        "CTO",
+        "CISO",
+        "VP",
+        "Director",
+        "Head of",
+        "General Manager"
+      ],
+      "decisionMakers": true,
+      "budgetAuthority": true
+    },
+    "opportunity": {
+      "minDealValue": "$50000",
+      "contractLength": "12+ months",
+      "expansionPotential": true,
+      "strategicValue": "High"
+    }
+  }
+}

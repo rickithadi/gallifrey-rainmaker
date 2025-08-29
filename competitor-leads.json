@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-08-28T22:44:41.085Z",
+  "target": {
+    "name": "Strata Multi Services",
+    "industry": "construction",
+    "location": "Melbourne, Australia",
+    "website": "stratamultiservices.com.au",
+    "employeeRange": "11-50"
+  },
+  "leads": {
+    "competitors": [
+      {
+        "name": "BuildPro Services",
+        "website": "buildpro.com.au",
+        "location": "Melbourne"
+      },
+      {
+        "name": "ConstructCo Melbourne",
+        "website": "constructco.com.au",
+        "location": "Melbourne"
+      },
+      {
+        "name": "Premier Building Group",
+        "website": "premierbuilding.com.au",
+        "location": "Melbourne"
+      }
+    ],
+    "similarBusinesses": [],
+    "searchQueries": [
+      "\"construction\" companies in Melbourne, Australia",
+      "Strata Multi Services competitors",
+      "best construction services Melbourne, Australia",
+      "top 10 construction companies melbourne",
+      "construction contractors near me site:com.au"
+    ],
+    "directories": [
+      "https://www.yellowpages.com.au/search/listings?clue=construction+services&locationClue=melbourne",
+      "https://www.trustedtradie.com.au/construction/melbourne",
+      "https://www.australiantenders.com.au/contractors/",
+      "https://www.commercialrealestate.com.au/construction/"
+    ],
+    "tools": [
+      {
+        "name": "SimilarWeb",
+        "url": "https://www.similarweb.com/website/stratamultiservices.com.au/competitors/",
+        "type": "manual"
+      },
+      {
+        "name": "Ahrefs Competing Domains",
+        "url": "https://ahrefs.com/competing-domains",
+        "type": "paid"
+      },
+      {
+        "name": "SEMRush Competitors",
+        "url": "https://www.semrush.com/",
+        "type": "paid"
+      }
+    ],
+    "linkedIn": {
+      "linkedInUrl": "https://www.linkedin.com/sales/search/company",
+      "filters": {
+        "companySize": "11-50 employees",
+        "location": "Melbourne, Australia",
+        "industry": "construction",
+        "keywords": [
+          "construction services",
+          "building maintenance",
+          "facility management"
+        ]
+      },
+      "searchQueries": [
+        "site:linkedin.com/company \"construction\" \"Melbourne, Australia\"",
+        "site:linkedin.com/in \"construction manager\" \"melbourne\"",
+        "site:linkedin.com/in \"building services\" \"owner\" \"melbourne\"",
+        "site:linkedin.com/company \"construction\" \"melbourne\" employees:11-50"
+      ]
+    },
+    "associations": [
+      "Master Builders Association Victoria",
+      "Housing Industry Association",
+      "Australian Construction Industry Forum",
+      "Civil Contractors Federation"
+    ],
+    "governmentDatabases": [
+      "https://www.tenders.gov.au/",
+      "https://www.tenders.vic.gov.au/",
+      "https://www.business.gov.au/grants-and-programs"
+    ]
+  },
+  "apollo": {
+    "url": "https://app.apollo.io/search/companies",
+    "filters": {
+      "industry_keywords": [
+        "construction"
+      ],
+      "locations": [
+        "Melbourne, Australia"
+      ],
+      "employee_count": "11-50",
+      "technologies": []
+    },
+    "exportInstructions": [
+      "1. Go to Apollo.io",
+      "2. Apply these filters",
+      "3. Export to CSV",
+      "4. Import to Google Sheets"
+    ]
+  },
+  "nextSteps": [
+    "1. Use LinkedIn Sales Navigator with the provided filters",
+    "2. Search Google with the provided queries",
+    "3. Check the industry directories",
+    "4. Look up member lists from associations",
+    "5. Use Apollo.io or similar tools for bulk export",
+    "6. Check government contract databases for active contractors"
+  ]
+}
